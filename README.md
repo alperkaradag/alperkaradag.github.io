@@ -1,6 +1,6 @@
 # Prelude
 
-This webpage will be used to publish the documents of the term project of *CS 491 - Senior Design Project I * course in Bilkent University (2019-2020 Spring).
+This webpage will be used to publish the documents of the term project of *CS 491 - Senior Design Project I* course in Bilkent University (2019-2020 Spring).
 
 ## Project Info
 
