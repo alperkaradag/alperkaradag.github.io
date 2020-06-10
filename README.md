@@ -21,4 +21,4 @@ This webpage will be used to publish the documents of the term project of *CS 49
 
 [Project Analysis Report](https://github.com/alperkaradag/alperkaradag.github.io/blob/master/Analysis%20Report.pdf)
 
-Project High-Level Design Report
+[Project High Level Design Report](https://github.com/alperkaradag/alperkaradag.github.io/raw/master/High%20Level%20Design.pdf)
