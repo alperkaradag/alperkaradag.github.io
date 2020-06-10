@@ -14,7 +14,7 @@ This webpage will be used to publish the documents of the term project of *CS 49
 - [Alper KARADAG](https://github.com/alperkaradag)
 - [Osman Orhan UYSAL](https://github.com/orhanuysal)
 - [Osman Burak INTISAH](https://github.com/burakintisah)
-- [Samet OZCAN]()
+- [Samet OZCAN](https://github.com/sametbilkent)
 
 ## Project Documents
 [Project Specification Report](https://github.com/alperkaradag/alperkaradag.github.io/blob/master/Project%20Specification%20Report.pdf)
