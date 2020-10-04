@@ -17,10 +17,10 @@ This webpage will be used to publish the documents of the term project of *CS 49
 - [Samet OZCAN](https://github.com/sametbilkent)
 
 ## Project Documents
-[Project Specification Report](https://github.com/alperkaradag/alperkaradag.github.io/blob/master/Project%20Specification%20Report.pdf)
+[Project Specification Report](https://github.com/alperkaradag/alperkaradag.github.io/raw/master/Project%20Specification%20Report.pdf)
 
-[Project Analysis Report](https://github.com/alperkaradag/alperkaradag.github.io/blob/master/Analysis%20Report.pdf)
+[Project Analysis Report](https://github.com/alperkaradag/alperkaradag.github.io/raw/master/Analysis%20Report.pdf)
 
 [Project High-Level Design Report](https://github.com/alperkaradag/alperkaradag.github.io/raw/master/High%20Level%20Design.pdf)
 
-[Project Low-Level Design Report](https://github.com/alperkaradag/alperkaradag.github.io/blob/master/Low-Level%20Design%20Report.pdf)
+[Project Low-Level Design Report](https://github.com/alperkaradag/alperkaradag.github.io/raw/master/Low-Level%20Design%20Report.pdf)
