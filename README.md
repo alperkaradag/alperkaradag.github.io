@@ -6,7 +6,7 @@ This webpage will be used to publish the documents of the term project of *CS 49
 
 **Project Name:** Prelude
 
-**Project Description:** Prelude is a cloth defect detection software. It uses Faster Regional Convolutional Neural Networks to detect defects and then it generates comprehensive reports about the defects so that the textile company managers can be informed.
+**Project Description:** Prelude is a cloth defect detection software. It uses YOLOv4 Object Detector to detect defects and then it generates comprehensive reports about the defects so that the textile company managers can be informed.
 
 
 **Group Members**
